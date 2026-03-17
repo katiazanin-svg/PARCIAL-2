@@ -1,0 +1,5 @@
+print('Vamos somar!')
+v1 = int(input('Insira o primeiro valor: '))
+v2 = int(input('Insira o segundo valor: '))
+soma = (v1 + v2)
+print('O resultado de' ,(v1), '+', (v2), 'é' ,(soma))
