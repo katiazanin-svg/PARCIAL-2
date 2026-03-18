@@ -1,0 +1,6 @@
+print ('Vamos calcular os juros simples!')
+c = float(input('Insira o capital inicial:'))
+i = float(input('Insira a taxa:'))
+t = float(input('Insira o tempo:'))
+Juros = (c*i*t)
+print ('Juros=',Juros)
