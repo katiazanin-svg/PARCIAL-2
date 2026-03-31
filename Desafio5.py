@@ -1,3 +1,4 @@
+#Nomeia o código
 print ('Vamos calcular a área de um triângulo!')
 #Considera os valores solicitados
 b = float(input('Insira a medida(cm) da base:'))
