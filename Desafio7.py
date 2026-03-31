@@ -1,3 +1,4 @@
+#Nomeia o código
 print ('Vamos calcular os juros simples!')
 #Considera os valores solicitados
 c = float(input('Insira o capital inicial:'))
